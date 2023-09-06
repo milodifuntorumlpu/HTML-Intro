@@ -1,0 +1,11 @@
+h2 {
+    color: azure;
+    background-color: darkslategrey;
+}
+h3 {
+    color: darkolivegreen;
+}
+table, th, td{
+    border: 1px solid black;
+    background-color: oldlace;
+}
